@@ -34,13 +34,14 @@ DEVELOPED BY : MOHAMMED SAAJID
 
 REGISTER NO :  212223240093
 
-![prog](https://github.com/Confusion7/Poisson_distribution/assets/141727149/eded6f27-09a2-4f50-9d66-0625844f3d66)
+![prog](https://github.com/Confusion7/Poisson_distribution/assets/141727149/74584358-c777-4ba0-8183-6440f13bdd5a)
 
  
 
 # Output : 
 
-![output](https://github.com/Confusion7/Poisson_distribution/assets/141727149/2acc4019-1b0c-4b2e-a39d-1238ca697aca)
+![output](https://github.com/Confusion7/Poisson_distribution/assets/141727149/47574c09-08d1-4ce3-9979-6de67952509e)
+
 
 
 # Results
